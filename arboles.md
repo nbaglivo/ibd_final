@@ -42,6 +42,7 @@ Temas
 * ¿Qué es un árbol?
 * ¿Qué es un árbol balanceado en altura?
 * ¿Qué es un árbol multicamino?
+* ¿Qué es un árbol binario?
 * ¿Qué es un árbol B?
 * ¿Qué es un árbol B+?
 * ¿Qué es un árbol B*?
