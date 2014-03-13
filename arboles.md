@@ -1,4 +1,4 @@
-Introducción a las Bases de Datos: Árboles
+Árboles
 ========================
 
 Frequently Asked Questions:
