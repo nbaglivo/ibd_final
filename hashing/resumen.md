@@ -70,5 +70,5 @@ Para el método extensible, la función de hash retora una string de bits. La ca
 
 ## Conclusiones
 	
-	* Para aquellos problemas donde la eficienca de búsquedas debe ser extrema se dispone del hashing.
-	* Si se desea asegurar siempre un acceso a disco para recupperar la información la variante de hash extensible lo logra. El costo que debe asumirse es el mayor procesamiento cuando una inserción genera overflow.
+* Para aquellos problemas donde la eficienca de búsquedas debe ser extrema se dispone del hashing.
+* Si se desea asegurar siempre un acceso a disco para recupperar la información la variante de hash extensible lo logra. El costo que debe asumirse es el mayor procesamiento cuando una inserción genera overflow.
