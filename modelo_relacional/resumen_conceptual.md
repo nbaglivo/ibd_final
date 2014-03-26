@@ -7,7 +7,7 @@ Los modelos de datos conceptuales son medios para representar la información de
 Un modelo conceptual debe poseer cuatro caracteristicas o propiedades básicas:
 *	Expresividad: Capturar y presentar de la mejor forma posible la semántica de los datos del problema a resolver.
 *	Formalidad: Cada elemento representado en el modelo debe ser preciso y bien definido, con una sola interpretación posible.
-*	Minimalidad Cada elemento del modelo conceptual tiene una única forma de representación posible y no puede expresarse mediante otros conceptos.
+*	Minimalidad: Cada elemento del modelo conceptual tiene una única forma de representación posible y no puede expresarse mediante otros conceptos.
 *	Simplicidad: Establece que el modelo debe ser fácil de entender por el cliente/usuario y el desarrollador
 
 ## Componentes del modelo conceptual
