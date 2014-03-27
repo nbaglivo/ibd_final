@@ -82,7 +82,7 @@ La cláusula **EXISTS** se utiliza para comprobar si una subconsulta generó o n
 
 ### Operaciones con Valores Nulos
 
-Existe un operador **IS NULL ** y su negación **IS NOT NULL**
+Existe un operador **IS NULL** y su negación **IS NOT NULL**
 
 **SELECT** nombre
 **FROM** alumnos

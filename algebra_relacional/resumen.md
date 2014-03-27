@@ -1,5 +1,5 @@
-Resumen Normalización
-=====================
+Resumen Lenguajes de Consulta
+==============================
 
 ## Introducción
 
